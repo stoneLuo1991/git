@@ -1,1 +1,3 @@
-this is a text to learn git!
+This is a text to learn git!
+Git is a distributed version control system.
+Git is free software.
